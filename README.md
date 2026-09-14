@@ -1,13 +1,13 @@
-<!--
+<div align="center">
+
+```text
 ███╗   ███╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗      ██████╗  ██████╗ ███████╗██╗
 ████╗ ████║██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗    ██╔════╝ ██╔═══██╗██╔════╝██║
 ██╔████╔██║███████║██╔██╗ ██║ ╚████╔╝ ███████║    ██║  ███╗██║   ██║█████╗  ██║
 ██║╚██╔╝██║██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║    ██║   ██║██║   ██║██╔══╝  ██║
 ██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   ██║  ██║    ╚██████╔╝╚██████╔╝███████╗███████╗
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝     ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
--->
-
-<div align="center">
+```
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -118,7 +118,7 @@ A multi-agent recommender system using hybrid BM25 + vector search with a 3-laye
 **Stack:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%203.5%20Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%201.5%20Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Hybrid%20Search-00FFB3?style=flat-square)
 
 🛡️ **3-Layer Anti-Hallucination** & prompt-injection defense  

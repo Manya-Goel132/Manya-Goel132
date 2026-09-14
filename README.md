@@ -219,12 +219,12 @@ Privacy-first journaling app with AI-powered reflection prompts. Zero-trust arch
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manya-Goel132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Manya's GitHub Stats" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Manya-Goel132&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&dates=C9D1D9" alt="Manya's GitHub Streak" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manya-Goel132&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manya-Goel132&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manya-Goel132&theme=tokyonight" alt="GitHub Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manya-Goel132&theme=tokyonight" alt="Top Languages" width="49%" />
 
 </div>
 

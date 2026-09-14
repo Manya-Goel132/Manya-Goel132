@@ -249,12 +249,10 @@ Zero-trust journaling web application with owner-bound Firestore security rules.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manya-Goel132/Manya-Goel132/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manya-Goel132/Manya-Goel132/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Manya-Goel132/Manya-Goel132/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Manya-Goel132/Manya-Goel132@output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Manya-Goel132/Manya-Goel132@output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://cdn.jsdelivr.net/gh/Manya-Goel132/Manya-Goel132@output/github-snake-dark.svg" />
 </picture>
-
-<sub>⚠️ To activate the snake: add the <a href="https://github.com/Platane/snk">platane/snk</a> GitHub Action to <code>.github/workflows/snake.yml</code> in this repo.</sub>
 
 </div>
 

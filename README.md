@@ -30,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manya--goel--6a5a8930b-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-goel-6a5a8930b)
 [![Email](https://img.shields.io/badge/Email-goyalmanya67%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:goyalmanya67@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Delhi%2C%20India-00FFB3?style=flat-square&logoColor=white)](https://maps.google.com/?q=Delhi,India)
+[![Location](https://img.shields.io/badge/Location-Delhi%2C%20India-00FFB3?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Delhi,India)
 [![GitHub](https://img.shields.io/badge/GitHub-Manya--Goel132-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Manya-Goel132)
 
 <br/>
@@ -219,12 +219,12 @@ Privacy-first journaling app with AI-powered reflection prompts. Zero-trust arch
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manya-Goel132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=C9D1D9&rank_icon=github" alt="Manya's GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manya-Goel132&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3" alt="Manya's GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manya-Goel132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Manya's GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Manya-Goel132&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&dates=C9D1D9" alt="Manya's GitHub Streak" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manya-Goel132&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manya-Goel132&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" width="40%" />
 
 </div>
 
